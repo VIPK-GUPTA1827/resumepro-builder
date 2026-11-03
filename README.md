@@ -14,7 +14,7 @@ A real-time resume builder with an **ATS validation engine** that scores resume 
 ## ✨ Features
 
 - ⚡ **Real-time preview** — see changes instantly as you type
-- 🎯 **ATS Score Engine** — validates resume layout and scores it (used by 150+ candidates)
+- 🎯 **ATS Score Engine** — validates resume layout and scores it
 - 📄 **PDF Export** — standard A4 vector PDF, no layout shifts
 - 🎨 **Multiple Templates** — clean, modern resume layouts
 - 💾 **Auto-save** — data persists across sessions
